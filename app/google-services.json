@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "221918702046",
+    "firebase_url": "https://avid-streamer-254612.firebaseio.com",
+    "project_id": "avid-streamer-254612",
+    "storage_bucket": "avid-streamer-254612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221918702046:android:33fac313503fe008a3154f",
+        "android_client_info": {
+          "package_name": "com.example.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221918702046-g98oig0u60drp0gvv03f27558lefo67u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uberclone",
+            "certificate_hash": "ce73cce4fbd15a7ab60d33283980b5ca5fdc2223"
+          }
+        },
+        {
+          "client_id": "221918702046-v31emtiqslk9m64edlbngtqdb0lojjak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgTnWwuq413FiRuZXBUejqkgK0jZZbOeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221918702046-v31emtiqslk9m64edlbngtqdb0lojjak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
